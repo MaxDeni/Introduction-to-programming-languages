@@ -28,7 +28,7 @@ while(a<=0);
 
 int N=5;
 System.Console.WriteLine($"N={N}");
-bool x,y,f1,f2,f;
+bool x,y,f1,f2;
 x=true;
 y=true;
 f1=!(x || y);
