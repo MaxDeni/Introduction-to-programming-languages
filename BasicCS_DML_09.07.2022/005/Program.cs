@@ -1,6 +1,6 @@
 ﻿//С клавиатуры вводятся три числа. Найти максимальное из трех чисел
 
-
+/*
 int Max(int a,int b,int c);
 string? s=Console.ReadLine();
 a=Convert.ToInt32(s);
@@ -26,4 +26,4 @@ else
         System.Console.WriteLine("Числа не являются квадратами друг друга");
     }
 } 
-
+*/
