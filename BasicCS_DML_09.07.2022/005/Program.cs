@@ -1,29 +1,25 @@
 ﻿//С клавиатуры вводятся три числа. Найти максимальное из трех чисел
 
-/*
-int Max(int a,int b,int c);
+int a,b,c;
 string? s=Console.ReadLine();
 a=Convert.ToInt32(s);
 s=Console.ReadLine();
 b=Convert.ToInt32(s);
+s=Console.ReadLine();
 c=Convert.ToInt32(s);
-//int result=a;
-//if (b>result) result=b;
 
-if (b>a);
-if (c>b);
+if ((b>a && c>b) || (a>b && c>a))
 {
-    System.Console.WriteLine("c является максимальным");
+    System.Console.WriteLine("c является максимальным числом");
 }
 else
 {
-    if (b>a)
+    if (a>b && a>c)
     {
-        System.Console.WriteLine("b является максимальным");
+        System.Console.WriteLine("a является максимальным числом");
     }
     else
     {
-        System.Console.WriteLine("Числа не являются квадратами друг друга");
+        System.Console.WriteLine("b является максимальным числом");
     }
 } 
-*/
