@@ -7,19 +7,9 @@ s=Console.ReadLine();
 b=Convert.ToInt32(s);
 s=Console.ReadLine();
 c=Convert.ToInt32(s);
-
-if ((b>a && c>b) || (a>b && c>a))
+int max=a;
+if(b>max) max=b;
+if(c>max) max=c;
 {
-    System.Console.WriteLine("c является максимальным числом");
+    System.Console.WriteLine(max);
 }
-else
-{
-    if (a>b && a>c)
-    {
-        System.Console.WriteLine("a является максимальным числом");
-    }
-    else
-    {
-        System.Console.WriteLine("b является максимальным числом");
-    }
-} 

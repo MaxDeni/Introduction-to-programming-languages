@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //комментарии
-
+//С клавиатуры вводится целое число. Вывести квадрат числа 
 /*
 Console.WriteLine("Hello, World!");
 System.Console.WriteLine(11%3);
