@@ -23,4 +23,4 @@ int CountDigits(int N)
     return k;
 }
 
-System.Console.WriteLine(CountDigits(15));
+System.Console.WriteLine(CountDigits(1875));
