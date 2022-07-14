@@ -1,25 +1,43 @@
-﻿//Удалить вторую цифру целого числа введенного с клавиатуры.
-/*
-int a;
-string? s=Console.ReadLine();
-a=Convert.ToInt32(s);
+﻿//Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 
-int b=a%001;
-System.Console.WriteLine(b);
-*/
-/*
+Д О Д Е Л А Т Ь ! ! ! ! ! !
+ 
 int a;
 string? s=Console.ReadLine();
 a=Convert.ToInt32(s);
-int b=a/10;
+int b=a%10;
 int c=a/10%10;
-System.Console.WriteLine(b);
-System.Console.WriteLine(c);
+if ((a>99) && (a<1000))
+{
+    System.Console.WriteLine(b);
+}
+else
+if ((a>999) && (a<10000))
+{
+    System.Console.WriteLine(c);
+}
+else
+{
+    System.Console.WriteLine("третьей цифры нет");
+}
+/*
+else
+if (a>999)
+int b=
+{
+    System.Console.WriteLine("третьей цифры нет");
+}
 */
 
-//Доделать!!!
-//Доделать!!!
-//Доделать!!!
-//Доделать!!!
-//Доделать!!!
-//Доделать!!!
+
+/*
+int A=987;
+{
+ int s=0;
+ for (int i=1; i<=A; i++)
+ {
+ s=s+i;
+ }
+System.Console.WriteLine(s);
+}
+*/
