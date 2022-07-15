@@ -1,43 +1,81 @@
 ﻿//Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 
-Д О Д Е Л А Т Ь ! ! ! ! ! !
- 
-int a;
+В  Р А Б О Т Е ! ! ! ! !
+
+/*int a;
 string? s=Console.ReadLine();
 a=Convert.ToInt32(s);
-int b=a%10;
-int c=a/10%10;
-if ((a>99) && (a<1000))
-{
-    System.Console.WriteLine(b);
-}
-else
-if ((a>999) && (a<10000))
-{
-    System.Console.WriteLine(c);
-}
-else
+int i=99;
+int k=1000;
+int n=1;
+
+if (a<=i)
 {
     System.Console.WriteLine("третьей цифры нет");
 }
+else
+{
+    while 
+    if ((a>i) && (a<k))
+    int b=(a/n)%10;
+    System.Console.WriteLine(b);
+}
+else
+i=i*10;
+k=k*10;
+n=n*10;
+{
+int b=(a/n)%10;
+System.Console.WriteLine(b);
+}
+
+
+*/
+/*
+    i=i*10;
+    k=k*10;
+    n=n*10;
+System.Console.WriteLine(b);
+*/
 /*
 else
-if (a>999)
-int b=
 {
     System.Console.WriteLine("третьей цифры нет");
 }
 */
+/*
+int a;
+string? s=Console.ReadLine();
+a=Convert.ToInt32(s);
+  int b = 0; 
+    if (a / 100 == 0) 
+        return 0; 
+    else 
+    { 
+        while (a > 1000) 
+        { 
+            a = a / 10; 
+        } 
+        b = a % 10; 
+        return b; 
+    }
+{
+    System.Console.WriteLine(b);
+}
+*/
+
+
+
 
 
 /*
-int A=987;
+int anyNumber = Convert.ToInt32(Console.ReadLine());
+string anyNumberText = Convert.ToString(anyNumber);
+if (anyNumberText.Length > 2)
 {
- int s=0;
- for (int i=1; i<=A; i++)
- {
- s=s+i;
- }
-System.Console.WriteLine(s);
+  Console.WriteLine(" " + anyNumberText[2]);
+}
+else {
+  Console.WriteLine("третьей цифры нет");
 }
 */
