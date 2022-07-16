@@ -10,8 +10,6 @@ b=x%7==0;
 System.Console.WriteLine(b);
 */
 
-
-
 bool b,c,d;
 int x=23*14;
 b=x%7==0;//простое или элементарное условие
@@ -32,5 +30,4 @@ else
 {
     System.Console.WriteLine($"{x} не кратно 7 и 23");
 }
-
 

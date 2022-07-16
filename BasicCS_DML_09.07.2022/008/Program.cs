@@ -6,3 +6,4 @@ while(i<=N)
     System.Console.WriteLine(i);
     i++;
 }
+

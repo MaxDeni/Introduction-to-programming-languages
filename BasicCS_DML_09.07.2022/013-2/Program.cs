@@ -31,3 +31,4 @@ int DigitsCount(int N)
     }
     return k;
 }
+

@@ -16,3 +16,4 @@ int[] arr2;
 arr2=arr;
 arr2[0]=2;
 System.Console.WriteLine();
+

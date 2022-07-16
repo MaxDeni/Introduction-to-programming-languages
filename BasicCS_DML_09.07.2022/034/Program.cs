@@ -28,3 +28,4 @@ for(int i=0;i<a.Length;i++)
         sumNegative+=a[i];
         
 System.Console.WriteLine(sumNegative);
+

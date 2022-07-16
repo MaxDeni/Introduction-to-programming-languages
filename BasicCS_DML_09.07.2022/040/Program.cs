@@ -18,3 +18,4 @@ for(int i=0;i<a.Length/2;i++)
 System.Console.WriteLine();
 for(int i=0;i<b.Length;i++)
     System.Console.Write($"{b[i],4}");
+

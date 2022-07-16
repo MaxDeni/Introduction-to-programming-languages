@@ -22,3 +22,4 @@ if (j==a.Length) System.Console.WriteLine("\nNot found");
 else System.Console.WriteLine($"\nElement {f} finded at {j}");
 
 //Вывод результатов
+

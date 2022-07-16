@@ -16,3 +16,4 @@ for(int i=0;i<a.Length;i++)
         s=s+a[i];
 
 System.Console.WriteLine(s);
+
