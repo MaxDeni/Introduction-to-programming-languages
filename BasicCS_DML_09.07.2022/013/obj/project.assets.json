@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Documents\\GeekBrains\\BasicCS_DML_09.07.2022\\013\\013.csproj",
-      "projectName": "013",
-      "projectPath": "C:\\Users\\Acer\\Documents\\GeekBrains\\BasicCS_DML_09.07.2022\\013\\013.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Documents\\GeekBrains\\BasicCS_DML_09.07.2022\\013\\013-2.csproj",
+      "projectName": "013-2",
+      "projectPath": "C:\\Users\\Acer\\Documents\\GeekBrains\\BasicCS_DML_09.07.2022\\013\\013-2.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Acer\\Documents\\GeekBrains\\BasicCS_DML_09.07.2022\\013\\obj\\",
       "projectStyle": "PackageReference",

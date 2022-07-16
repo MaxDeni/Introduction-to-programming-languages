@@ -1,13 +1,16 @@
-﻿//С клавиатуры вводится целое число из  диапазона  [10, 99]. Показать наибольшую цифру числа.
+﻿//С клавиатуры вводится целое число из диапазона [10, 99]. Показать наибольшую цифру числа.
 
-/*//Вывести на экран четные числа от 1 до N
-int i=1;
-int N=50;
-while(i<=N)
+int a,b,c;
+string? s=Console.ReadLine();
+a=Convert.ToInt32(s);
+
+b=a/10;
+c=a%10;
+if (b>c)
 {
-    if (i%2==0)
-    {
-        System.Console.Write($"{i} ");
-    }
-    i=i+1;
-}*/
+System.Console.WriteLine(b);
+}
+else
+{
+System.Console.WriteLine(c);
+}
