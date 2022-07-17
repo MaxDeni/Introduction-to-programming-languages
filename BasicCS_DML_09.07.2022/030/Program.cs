@@ -1,11 +1,21 @@
-﻿//Написать программу вычисления произведения чисел от 1 до N
+﻿//Написать программу вычисления произведения чисел, числа N
 
-int i=1;
-int k=1;
-int N=6;
-while(i<=N)
+Console.Write("Введите число N: ");
+int numberN = Convert.ToInt32(Console.ReadLine());
+int SumNumber(int numberN)
 {
-    k=i*k;
-    i++;
+    int counter = Convert.ToString(numberN).Length;
+    int advance = 1;
+    int result = 1;
+
+    for (int i = 1; i < counter; i++)
+    {
+      advance = numberN - numberN % 10;
+      result = result * (numberN - advance);
+      numberN = numberN / 10;
+    }
+   return result;
 }
-System.Console.WriteLine(k);
+
+int sumNumber = SumNumber(numberN);
+Console.WriteLine("Произведение чисел: " + sumNumber);
