@@ -20,4 +20,4 @@ double min=array[0];
     }
   }
 double d=max-min;
-System.Console.WriteLine("Разница между между максимальным и минимальным элементами равна: " + d);
+System.Console.WriteLine("Разница между максимальным и минимальным элементами равна: " + d);

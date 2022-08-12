@@ -3,3 +3,13 @@ C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\046\obj\Debug\net6.0\0
 C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\046\obj\Debug\net6.0\046.AssemblyInfoInputs.cache
 C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\046\obj\Debug\net6.0\046.AssemblyInfo.cs
 C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\046\obj\Debug\net6.0\046.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\046\bin\Debug\net6.0\046.exe
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\046\bin\Debug\net6.0\046.deps.json
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\046\bin\Debug\net6.0\046.runtimeconfig.json
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\046\bin\Debug\net6.0\046.dll
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\046\bin\Debug\net6.0\046.pdb
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\046\obj\Debug\net6.0\046.dll
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\046\obj\Debug\net6.0\refint\046.dll
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\046\obj\Debug\net6.0\046.pdb
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\046\obj\Debug\net6.0\046.genruntimeconfig.cache
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\046\obj\Debug\net6.0\ref\046.dll
