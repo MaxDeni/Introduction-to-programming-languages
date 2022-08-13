@@ -72,4 +72,3 @@ for(int i=0;i<c.GetLength(0);i++)
     for(int j=0;j<c.GetLength(1);j++) System.Console.Write($"{c[i,j]} ");
          System.Console.WriteLine();
 }
-

@@ -1,0 +1,15 @@
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\Recursy\bin\Debug\net6.0\Recursy.exe
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\Recursy\bin\Debug\net6.0\Recursy.deps.json
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\Recursy\bin\Debug\net6.0\Recursy.runtimeconfig.json
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\Recursy\bin\Debug\net6.0\Recursy.dll
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\Recursy\bin\Debug\net6.0\Recursy.pdb
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\Recursy\obj\Debug\net6.0\Recursy.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\Recursy\obj\Debug\net6.0\Recursy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\Recursy\obj\Debug\net6.0\Recursy.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\Recursy\obj\Debug\net6.0\Recursy.AssemblyInfo.cs
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\Recursy\obj\Debug\net6.0\Recursy.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\Recursy\obj\Debug\net6.0\Recursy.dll
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\Recursy\obj\Debug\net6.0\refint\Recursy.dll
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\Recursy\obj\Debug\net6.0\Recursy.pdb
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\Recursy\obj\Debug\net6.0\Recursy.genruntimeconfig.cache
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\Recursy\obj\Debug\net6.0\ref\Recursy.dll
