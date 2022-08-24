@@ -1,81 +1,33 @@
-﻿//Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
-
-В  Р А Б О Т Е ! ! ! ! !
-
-/*int a;
-string? s=Console.ReadLine();
-a=Convert.ToInt32(s);
-int i=99;
-int k=1000;
-int n=1;
-
-if (a<=i)
-{
-    System.Console.WriteLine("третьей цифры нет");
-}
-else
-{
-    while 
-    if ((a>i) && (a<k))
-    int b=(a/n)%10;
-    System.Console.WriteLine(b);
-}
-else
-i=i*10;
-k=k*10;
-n=n*10;
-{
-int b=(a/n)%10;
-System.Console.WriteLine(b);
-}
-
-
-*/
+﻿//13. Удалить вторую цифру целого числа введенного с клавиатуры.
+//Вариант 1. Удаление с конца
 /*
-    i=i*10;
-    k=k*10;
-    n=n*10;
-System.Console.WriteLine(b);
+int n=Convert.ToInt32(Console.ReadLine());
+int d0=n%10;
+int d1=n/10%10;
+int d2=n/100;
+int n1=d2*10+d0;
+//System.Console.WriteLine($"{d0}{d1}{d2}");
+System.Console.WriteLine($"{n1}");
 */
-/*
-else
+//Вариант 2. Удаление с начала
+
+int n=Convert.ToInt32(Console.ReadLine());
+int k=DigitsCount(n);
+int n2=n%(int)Math.Pow(10,k-2);
+int n3=n/(int)Math.Pow(10,k-1);
+int nn=n3*(int)Math.Pow(10,k-2)+n2;
+//System.Console.WriteLine($"{n3}{n2}");
+System.Console.WriteLine(nn);
+//12346%1000=346
+//12346/10000=1000+346
+int DigitsCount(int N)
 {
-    System.Console.WriteLine("третьей цифры нет");
-}
-*/
-/*
-int a;
-string? s=Console.ReadLine();
-a=Convert.ToInt32(s);
-  int b = 0; 
-    if (a / 100 == 0) 
-        return 0; 
-    else 
-    { 
-        while (a > 1000) 
-        { 
-            a = a / 10; 
-        } 
-        b = a % 10; 
-        return b; 
+    if (N==0) return 1;
+    int k=0;
+    while(N!=0)
+    {
+        k++;
+        N=N/10;
     }
-{
-    System.Console.WriteLine(b);
+    return k;
 }
-*/
-
-
-
-
-
-/*
-int anyNumber = Convert.ToInt32(Console.ReadLine());
-string anyNumberText = Convert.ToString(anyNumber);
-if (anyNumberText.Length > 2)
-{
-  Console.WriteLine(" " + anyNumberText[2]);
-}
-else {
-  Console.WriteLine("третьей цифры нет");
-}
-*/

@@ -16,3 +16,4 @@ int b=a%100;
 int c=b/10;
 
 System.Console.WriteLine(c);
+

@@ -1,0 +1,15 @@
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\035\obj\Debug\net6.0\035.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\035\obj\Debug\net6.0\035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\035\obj\Debug\net6.0\035.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\035\obj\Debug\net6.0\035.AssemblyInfo.cs
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\035\obj\Debug\net6.0\035.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\035\bin\Debug\net6.0\035.exe
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\035\bin\Debug\net6.0\035.deps.json
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\035\bin\Debug\net6.0\035.runtimeconfig.json
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\035\bin\Debug\net6.0\035.dll
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\035\bin\Debug\net6.0\035.pdb
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\035\obj\Debug\net6.0\035.dll
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\035\obj\Debug\net6.0\refint\035.dll
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\035\obj\Debug\net6.0\035.pdb
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\035\obj\Debug\net6.0\035.genruntimeconfig.cache
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\035\obj\Debug\net6.0\ref\035.dll

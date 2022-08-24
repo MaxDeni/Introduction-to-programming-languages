@@ -1,0 +1,15 @@
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\2D_Array\bin\Debug\net6.0\2D_Array.exe
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\2D_Array\bin\Debug\net6.0\2D_Array.deps.json
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\2D_Array\bin\Debug\net6.0\2D_Array.runtimeconfig.json
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\2D_Array\bin\Debug\net6.0\2D_Array.dll
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\2D_Array\bin\Debug\net6.0\2D_Array.pdb
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\2D_Array\obj\Debug\net6.0\2D_Array.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\2D_Array\obj\Debug\net6.0\2D_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\2D_Array\obj\Debug\net6.0\2D_Array.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\2D_Array\obj\Debug\net6.0\2D_Array.AssemblyInfo.cs
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\2D_Array\obj\Debug\net6.0\2D_Array.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\2D_Array\obj\Debug\net6.0\2D_Array.dll
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\2D_Array\obj\Debug\net6.0\refint\2D_Array.dll
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\2D_Array\obj\Debug\net6.0\2D_Array.pdb
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\2D_Array\obj\Debug\net6.0\2D_Array.genruntimeconfig.cache
+C:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\2D_Array\obj\Debug\net6.0\ref\2D_Array.dll

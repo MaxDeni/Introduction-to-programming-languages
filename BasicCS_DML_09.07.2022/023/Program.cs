@@ -10,3 +10,4 @@ int b=y2-y1;
 double d=Math.Sqrt((a*a)+(b*b));
 
 System.Console.WriteLine(d);
+

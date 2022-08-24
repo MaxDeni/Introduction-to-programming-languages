@@ -25,3 +25,4 @@ else
         System.Console.WriteLine("Числа не являются квадратами друг друга");
     }
 }
+

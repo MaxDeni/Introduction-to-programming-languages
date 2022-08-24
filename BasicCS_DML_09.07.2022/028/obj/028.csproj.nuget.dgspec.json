@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User-Max\\Documents\\GeekBrains\\BasicCS_DML_09.07.2022\\028\\028.csproj": {}
+    "C:\\Users\\Acer\\Documents\\GeekBrains\\BasicCS_DML_09.07.2022\\028\\028.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User-Max\\Documents\\GeekBrains\\BasicCS_DML_09.07.2022\\028\\028.csproj": {
+    "C:\\Users\\Acer\\Documents\\GeekBrains\\BasicCS_DML_09.07.2022\\028\\028.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User-Max\\Documents\\GeekBrains\\BasicCS_DML_09.07.2022\\028\\028.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Documents\\GeekBrains\\BasicCS_DML_09.07.2022\\028\\028.csproj",
         "projectName": "028",
-        "projectPath": "C:\\Users\\User-Max\\Documents\\GeekBrains\\BasicCS_DML_09.07.2022\\028\\028.csproj",
-        "packagesPath": "C:\\Users\\User-Max\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User-Max\\Documents\\GeekBrains\\BasicCS_DML_09.07.2022\\028\\obj\\",
+        "projectPath": "C:\\Users\\Acer\\Documents\\GeekBrains\\BasicCS_DML_09.07.2022\\028\\028.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Acer\\Documents\\GeekBrains\\BasicCS_DML_09.07.2022\\028\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User-Max\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

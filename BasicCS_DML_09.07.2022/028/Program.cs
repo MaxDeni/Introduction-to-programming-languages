@@ -24,3 +24,4 @@ int CountDigits(int N)
 }
 
 System.Console.WriteLine(CountDigits(1875));
+
