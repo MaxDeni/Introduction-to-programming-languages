@@ -1,0 +1,15 @@
+C:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\066\bin\Debug\net6.0\066.exe
+C:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\066\bin\Debug\net6.0\066.deps.json
+C:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\066\bin\Debug\net6.0\066.runtimeconfig.json
+C:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\066\bin\Debug\net6.0\066.dll
+C:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\066\bin\Debug\net6.0\066.pdb
+C:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\066\obj\Debug\net6.0\066.csproj.AssemblyReference.cache
+C:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\066\obj\Debug\net6.0\066.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\066\obj\Debug\net6.0\066.AssemblyInfoInputs.cache
+C:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\066\obj\Debug\net6.0\066.AssemblyInfo.cs
+C:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\066\obj\Debug\net6.0\066.csproj.CoreCompileInputs.cache
+C:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\066\obj\Debug\net6.0\066.dll
+C:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\066\obj\Debug\net6.0\refint\066.dll
+C:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\066\obj\Debug\net6.0\066.pdb
+C:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\066\obj\Debug\net6.0\066.genruntimeconfig.cache
+C:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\066\obj\Debug\net6.0\ref\066.dll

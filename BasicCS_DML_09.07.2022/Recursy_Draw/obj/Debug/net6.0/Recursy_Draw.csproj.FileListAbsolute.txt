@@ -1,0 +1,5 @@
+C:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\Recursy_Draw\obj\Debug\net6.0\Recursy_Draw.csproj.AssemblyReference.cache
+C:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\Recursy_Draw\obj\Debug\net6.0\Recursy_Draw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\Recursy_Draw\obj\Debug\net6.0\Recursy_Draw.AssemblyInfoInputs.cache
+C:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\Recursy_Draw\obj\Debug\net6.0\Recursy_Draw.AssemblyInfo.cs
+C:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\Recursy_Draw\obj\Debug\net6.0\Recursy_Draw.csproj.CoreCompileInputs.cache

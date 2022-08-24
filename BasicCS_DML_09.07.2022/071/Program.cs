@@ -12,4 +12,4 @@ else
         return A(m-1, A(m, n-1));
 }
 
-System.Console.WriteLine(A(3,1));
+System.Console.WriteLine(A(1,2));
