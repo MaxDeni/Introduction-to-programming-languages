@@ -6,5 +6,15 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
+<<<<<<< HEAD
+<<<<<<<< HEAD:BasicCS_DML_09.07.2022/013/obj/Debug/net6.0/013-2.GeneratedMSBuildEditorConfig.editorconfig
 build_property.RootNamespace = _013_2
 build_property.ProjectDir = c:\Users\User-Max\Documents\GeekBrains\BasicCS_DML_09.07.2022\013\
+========
+build_property.RootNamespace = _004_2
+build_property.ProjectDir = c:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\004-2\
+>>>>>>>> 3a018f75bdef607eafe13a13fd60f23b55a06e57:BasicCS_DML_09.07.2022/004-2/obj/Debug/net6.0/004-2.GeneratedMSBuildEditorConfig.editorconfig
+=======
+build_property.RootNamespace = _013_2
+build_property.ProjectDir = c:\Users\Acer\Documents\GeekBrains\BasicCS_DML_09.07.2022\013\
+>>>>>>> 3a018f75bdef607eafe13a13fd60f23b55a06e57

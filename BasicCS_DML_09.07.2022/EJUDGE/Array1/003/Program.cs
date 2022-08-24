@@ -25,16 +25,27 @@ for(int i=1;i<a.Length;i=i+2)
 for(int i=1;i<a.Length;i=i+2)
     System.Console.WriteLine($"{a[i]} ");
 */
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 3a018f75bdef607eafe13a13fd60f23b55a06e57
 using System;
 int n=Convert.ToInt32(Console.ReadLine());
 string? s=Console.ReadLine();
 //s=s.Trim();//удалить пробелы в начале и конце строки
 string[] ss=s.Split(' ',StringSplitOptions.RemoveEmptyEntries);
+<<<<<<< HEAD
 int[] a=Array.ConvertAll<string,int>(ss, Convert.ToInt32);
+=======
+int[] a=Array.ConvertAll<string,int>(ss, Convert.ToUInt32);
+>>>>>>> 3a018f75bdef607eafe13a13fd60f23b55a06e57
 
 for(int i=0;i<a.Length;i=i+2)
     System.Console.Write($"{a[i]} ");    
 for(int i=1;i<a.Length;i=i+2)
     System.Console.Write($"{a[i]} ");
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3a018f75bdef607eafe13a13fd60f23b55a06e57
